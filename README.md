@@ -1,4 +1,4 @@
-🎨 Canva Replica Project
+🎨 Google Gemini Cli Project
 
 🧩 Overview
 
