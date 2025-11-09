@@ -1,4 +1,5 @@
 🎨 Canva Replica Project
+
 🧩 Overview
 
 This project is a replica of the Canva landing page, built using Gemini CLI, Google’s powerful AI command-line tool.
